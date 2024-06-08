@@ -1,3 +1,5 @@
-Arquivo versão 1.
+Novo arquivo versão 1.
 
 Arquivo alterado no GITHUB.
+
+Versão 2.
